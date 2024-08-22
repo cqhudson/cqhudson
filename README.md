@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Connor Hudson
 
-I'm a CS student, here's some tech that I'm currently working with:
+I'm a CS student, here's some tech that I'm currently learning and working with:
 - Java
 - IntelliJ (awesome IDE)
 - SQL
