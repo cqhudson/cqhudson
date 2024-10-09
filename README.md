@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Connor Hudson
 
-I'm a CS student, here are some things I've made or am working on:
+I'm a CS student, here are some things I've made:
 
 - **Win32ContentPrepToolGUI** -> Wrapper for the Microsoft Content Prep Tool for Intune written in VB.NET, using WinForms and .NET Core 6
 
