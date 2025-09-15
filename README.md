@@ -4,6 +4,9 @@ I'm a lawnmower, how about you?
 
 I have two jars of Great Value Mayo?
 
+this neat stat tracker gave me a C for my name!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cqhudson)](https://github.com/anuraghazra/github-readme-stats)
+
 pineapple on pizza is objectively better than sausage on pizza. If you don't agree then we can both agree to agree (that you are wrong).
 
 hot water
